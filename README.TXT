@@ -17,4 +17,13 @@ Answers:
 
 Part 1
 
-5. 
+5. NumberDisplay hours = new NumberDisplay(24);
+   hours.increment();
+
+6. NumberDisplay minutes = new NumberDisplay(60);
+   minutes.increment();
+
+7. I should look at the terminal window to see if the minutes are set back to 0
+
+
+
