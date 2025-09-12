@@ -24,6 +24,6 @@ Part 1
    minutes.increment();
    I should look at the terminal window to see if the minutes are set back to 0
 
-8. 
+8. The greater value stayed the same although the lower value changed.   
 
 
