@@ -26,4 +26,11 @@ Part 1
 
 8. The greater value stayed the same although the lower value changed.   
 
+9. I think the answer will be zero.
 
+10. Error: non-static method getValue() cannot be referenced from a static context
+    
+11. Error: '.class' expected
+    To correct the error, I only needed to delete the type "int" 
+
+12.  
