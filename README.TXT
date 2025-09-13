@@ -54,7 +54,7 @@ Part 1
 19. No there is no difference
 
 20. "12cat" and "cat39"
-    No, because in java, we have to follow a priority in the additon from left to right.
+    No, because in java, we have to follow a priority in additon from left to right.
     
     
 
