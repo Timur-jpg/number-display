@@ -33,4 +33,21 @@ Part 1
 11. Error: '.class' expected
     To correct the error, I only needed to delete the type "int" 
 
-12.  
+12. The reason for the difference is that with "<=" the value equal to the limit is accepted while with "<" the value equal to the limit is rejected because it isn't less than the limit.
+
+13. 0 is the only valid parameter value.
+
+14. Some of the invalid parameter values that would now be able to set the field are negative numbers and numbers greater than or equal to the limit.
+
+15. The expressions "! false" and "(34 != 33) && ! false" return true
+
+16. The expression "a == b" evaluates to true when a and b are either both
+    true or both false.
+    
+17. The expression "a ^ b" evaluates to true when only one of a and b is
+    true, and that is false if a and b are both false or both true.
+    
+
+
+
+    
