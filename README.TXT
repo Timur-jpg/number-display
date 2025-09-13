@@ -46,8 +46,16 @@ Part 1
     
 17. The expression "a ^ b" evaluates to true when only one of a and b is
     true, and that is false if a and b are both false or both true.
+
+18. No, it only works correctly if the value is between 0 and the limit -1.
+    It would be able to hold values form 0 up to 999
+    No, it isn't a two-digit string, it returns a three-digit string 
     
+19. No there is no difference
 
-
+20. "12cat" and "cat39"
+    No, because in java, we have to follow a priority in the additon from left to right.
+    
+    
 
     
